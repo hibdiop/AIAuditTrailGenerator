@@ -1,6 +1,6 @@
 # AI Audit Trail Generator
 
-A compliance-ready Streamlit app that creates auditable JSONL records for every AI interaction.
+A compliance-ready Streamlit app that creates auditable JSON records for every AI interaction.
 
 ## Features
 
